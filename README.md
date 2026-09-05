@@ -5,3 +5,5 @@ all graphics by [bside-mispress](https://www.tumblr.com/bside-mispress)
 [L-M](https://www.tumblr.com/bside-mispress/813371193248858112?source=share)
 [N-S](https://www.tumblr.com/bside-mispress/814176613890654208?source=share)
 [T-Z](https://www.tumblr.com/bside-mispress/814563117179813888?source=share)
+
+im not individually laying them out here okay check the artist out yourself
