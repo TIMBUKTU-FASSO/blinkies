@@ -1,5 +1,7 @@
 all graphics by [bside-mispress](https://www.tumblr.com/bside-mispress)
 
+africa blinkies they made:
+
 [A-C](https://www.tumblr.com/bside-mispress/812270823951007744?source=share)
 [D-G](https://www.tumblr.com/bside-mispress/812762570169647104?source=share)
 [L-M](https://www.tumblr.com/bside-mispress/813371193248858112?source=share)
