@@ -8,7 +8,7 @@ all graphics by [bside-mispress](https://www.tumblr.com/bside-mispress)
 
 im not individually laying them out here okay check the artist out yourself
 
-width150 height20 align center to place sidebyside:
+align center to place sidebyside:
 
 <p align="center">
 <img width="150" height="20" src="https://64.media.tumblr.com/ed3a866604e7b65c90fc855c9fae0909/148804d48047173a-b3/s250x400/e28e03f2a0216a65e1e4ed88d0d9c759f2cb896e.gifv" >
