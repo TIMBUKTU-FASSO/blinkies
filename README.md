@@ -6,7 +6,7 @@ all graphics by [bside-mispress](https://www.tumblr.com/bside-mispress)
 [N-S](https://www.tumblr.com/bside-mispress/814176613890654208?source=share)
 [T-Z](https://www.tumblr.com/bside-mispress/814563117179813888?source=share)
 
-im not individually laying them out here okay check the artist out yourself
+im not individually laying them out here lol, check the artist out yourself they’ve made blinkies for other countries too
 
 align center to place sidebyside:
 
@@ -14,5 +14,3 @@ align center to place sidebyside:
 <img width="150" height="20" src="https://64.media.tumblr.com/ed3a866604e7b65c90fc855c9fae0909/148804d48047173a-b3/s250x400/e28e03f2a0216a65e1e4ed88d0d9c759f2cb896e.gifv" >
 <img width="150" height="20" src="https://64.media.tumblr.com/80bd3cb2a532a9f2c2e2ef92d4976a8e/148804d48047173a-85/s250x400/51987ffb63c0971d8963b6f2542a7406d55af97e.gifv" >
 </p>
-
-<!-- if you’re on IOS you can easily drag and drop the graphics from your photos to your code, not sure if this is the same for android -->
